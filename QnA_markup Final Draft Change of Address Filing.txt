@@ -1,0 +1,78 @@
+Q(1): The information provided in this flowchart is a class project and should NOT be used as a legal resource.<br br> <br br> <br br> <br br>This flowchart is intended be a guide for those attempting to change their address for immigration purposes to find out where to send their paperwork.<br br> <br><br>The form to change an immigrant's address is called a Change of Address form and is also known as Form AR-11. The AR-11 must be filed with USCIS (United States Customs and Immigration Services) using <b>certified mail</b> <br br> <br><br>Changing your address via the United States Postal Service will *not* change your address with USCIS.<br br> <br br>Your address must always be current with USCIS for immigration purposes.<br br> <br><br><b>Are you interested in finding out where to file a Change of Address Form?</b>
+A: Yes.
+	Q(1.1): Do you know where to send your form?
+	A: Yes.
+		Q(1.1.1): Great! If you want to double check, you can go back through these questions, click the "GO BACK ONE" button below, and select "No." By clicking Go Back One and then No, you will be guided through where to send your form for immigration change of address purposes.
+	A: No.
+		Q(1.1.2):GOTO:2
+A: No.
+	Q(1.2): You can find all the USCIS forms at <a href="https://www.uscis.gov/forms/all-forms" target="_blank">USCIS Forms</a>
+Q(2): Are you a survivor of <b>domestic abuse, human trafficking, or other reported crimes?</b>
+A: Yes.
+	Q(2.1): Have you ever filed any of the following:<br br> <br br> <br br><b>Form I-360</b>, Petition for Amerasian, Widow(er), or Special Immigrant (as a VAWA (Violence Against Women Act) self-petitioner);<br br> <br br> <br br> <br br>
+<b>Form I-485</b>, Application to Register Permanent Residence or Adjust Status<br br>As an abused spouse under the Cuban Adjustment Act,<br br>As an abused spouse, parent, or child under VAWA; or 
+<br br>As a T or U nonimmigrant)?
+	A: Yes.
+		Q(2.1.1): Your AR-11, Change of Address for immigrants form, should be completed and mailed to the following address:<br br> <br br>U.S Citizenship and Immigration Services
+<br br>Attn: Humanitarian Division
+Vermont Service Center<br br>38 River Road<br br>Essex Junction, VT 05479-0001
+	A: No.
+		Q(2.1.2):GOTO:2.2
+		
+A: No.
+	Q(2.2): Have you filed <b>Form I-751: Abuse Waivers</b>?
+	A: Yes
+		Q(2.2.1): What three capitalized letters do you see at the beginning of your receipt number?
+		A: EAC 
+			Q(2.2.1.1): Please send your <b>AR-11 Change of Address for Immigrants Form</b> using <b>certified mail</b> to the following address:<br br>USCIS Vermont Service Center
+Attn: Humanitarian Division
+38 River Road
+Essex Junction, VT 05479-0001
+		A: LIN
+			Q(2.2.1.2):Please send your <b>AR-11 Change of Address for Immigrants Form</b> using <b>certified mail</b> to the following address:<br br> USCIS Nebraska Service Center
+P.O. Box 87918
+Lincoln, NE 68501-7918
+		A: MSC
+			Q(2.2.1.3):Please send your <b>AR-11 Change of Address for Immigrants Form</b> using <b>certified mail</b> to the following address:<br br> National Benefits Center
+P.O. Box 648006
+Lee’s Summit, MO 64002
+		A: SRC
+			Q(2.2.1.4):Please send your <b>AR-11 Change of Address for Immigrants Form</b> using <b>certified mail</b> to the following address:<br br>USCIS Texas Service Center
+6046 N Belt Line Rd.
+Irving, TX 75038-0001
+		A: WAC
+			Q(2.2.1.5):Please send your <b>AR-11 Change of Address for Immigrants Form</b> using <b>certified mail</b> to the following address:<br br>USCIS California Service Center
+Attn: Customer Service Section/SA
+P.O. Box 10751
+Laguna Niguel, CA 92607-1075
+		A: YSC
+			Q(2.2.1.6):Please send your <b>AR-11 Change of Address for Immigrants Form</b> using <b>certified mail</b> to the following address:<br br>Potomac Service Center
+2200 Potomac Center Drive, MS 2425
+Arlington, VA 20598-2425
+	A: No.
+		Q(2.2.2):GOTO:3
+A: I am not sure.
+	Q(2.3): Please refer to the following guide on filing the AR-11: <a href="https://www.immi-usa.com/ar-11-change-of-address-form/" target="_blank">USCIS AR-11 Form Guide</a>
+Q(3):Are you a U.S. Citizen?
+A: Yes
+	Q(3.1): Are you filing your change of address as a sponsor to an immigrant or as someone who submitted an affidavit in support of an immigrant? 
+	A: Yes
+		Q(3.1.1): You must file USCIS Form 1-865. This form can be filed online and is found at <a href="https://www.uscis.gov/i-865" target="_blank">USCIS Form i-865</a> This must be filed within 30 days of an address change.
+	A: No
+		Q(3.1.2):Do you have an ongoing case with USCIS?
+		A: Yes
+			Q(3.1.2.1): You may file form AR-11 online at the following link: <a href="https://egov.uscis.gov/coa/displayCOAForm.do" target="_blank">Form AR-11</a>
+		A: No
+			Q(3.1.2.2):GOTO:3.2
+A: No
+	Q(3.2):Are you a civil surgeon who examines immigrants upon arrival?
+	A: Yes	
+		Q(3.2.1): Please use the email address listed on your approval notification to update your address. More information can be found by reading: <a href="https://www.uscis.gov/tools/designated-civil-surgeons"target="_blank">USCIS Civil Surgeon's Page </a> 
+	A: No
+		Q(3.2.2): Are you an Attorney of Record or a Registered Representative?
+		A: Yes
+			Q(3.2.2.1): File the G-28 Form, found here: <a href="https://www.uscis.gov/forms/all-forms/filing-your-form-g-28#Filing"target="_blank">G-28 Form </a> Do *not* file the AR-11.
+		A: No
+			Q(3.2.2.2):GOTO:4
+Q(4): The previous options for where to file a change of address are those listed as filing options by USCIS. For more information please visit: <a href="https://www.uscis.gov/addresschange"target="_blank">AR-11 USCIS General Instructions Page </a>
+Thank you for using this tool! 
